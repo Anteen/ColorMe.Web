@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/anteen.github.io/ColorMe.Web/static/css/main.a2b12aa3.css",
-    "main.js": "/anteen.github.io/ColorMe.Web/static/js/main.af08d3c3.js",
-    "static/media/preview.mp4": "/anteen.github.io/ColorMe.Web/static/media/preview.7eb319e9928f9245eb81.mp4",
-    "static/media/background-desktop.webp": "/anteen.github.io/ColorMe.Web/static/media/background-desktop.12356fa33ac5ca540eca.webp",
-    "static/media/background-mobile.webp": "/anteen.github.io/ColorMe.Web/static/media/background-mobile.d8673a1b160935bbb80e.webp",
-    "static/media/iphone15-pro.webp": "/anteen.github.io/ColorMe.Web/static/media/iphone15-pro.490106a6428ef16eba8b.webp",
-    "static/media/iphone 12 res.png": "/anteen.github.io/ColorMe.Web/static/media/iphone 12 res.8a52cdfd137978a0fdf3.png",
-    "static/media/App Store.svg": "/anteen.github.io/ColorMe.Web/static/media/App Store.be023ee6cb88b6e6eeb990031f47ed9f.svg",
-    "static/media/ColorMeLogo.svg": "/anteen.github.io/ColorMe.Web/static/media/ColorMeLogo.d709113ef5867f7b0df84c6630bbcc05.svg",
-    "index.html": "/anteen.github.io/ColorMe.Web/index.html",
-    "main.a2b12aa3.css.map": "/anteen.github.io/ColorMe.Web/static/css/main.a2b12aa3.css.map",
-    "main.af08d3c3.js.map": "/anteen.github.io/ColorMe.Web/static/js/main.af08d3c3.js.map"
+    "main.css": "/ColorMe.Web/static/css/main.53eb102b.css",
+    "main.js": "/ColorMe.Web/static/js/main.ae45a41b.js",
+    "static/media/preview.mp4": "/ColorMe.Web/static/media/preview.7eb319e9928f9245eb81.mp4",
+    "static/media/background-desktop.webp": "/ColorMe.Web/static/media/background-desktop.12356fa33ac5ca540eca.webp",
+    "static/media/background-mobile.webp": "/ColorMe.Web/static/media/background-mobile.d8673a1b160935bbb80e.webp",
+    "static/media/iphone15-pro.webp": "/ColorMe.Web/static/media/iphone15-pro.490106a6428ef16eba8b.webp",
+    "static/media/iphone 12 res.png": "/ColorMe.Web/static/media/iphone 12 res.8a52cdfd137978a0fdf3.png",
+    "static/media/App Store.svg": "/ColorMe.Web/static/media/App Store.be023ee6cb88b6e6eeb990031f47ed9f.svg",
+    "static/media/ColorMeLogo.svg": "/ColorMe.Web/static/media/ColorMeLogo.d709113ef5867f7b0df84c6630bbcc05.svg",
+    "index.html": "/ColorMe.Web/index.html",
+    "main.53eb102b.css.map": "/ColorMe.Web/static/css/main.53eb102b.css.map",
+    "main.ae45a41b.js.map": "/ColorMe.Web/static/js/main.ae45a41b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2b12aa3.css",
-    "static/js/main.af08d3c3.js"
+    "static/css/main.53eb102b.css",
+    "static/js/main.ae45a41b.js"
   ]
 }
