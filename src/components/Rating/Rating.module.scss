@@ -1,0 +1,17 @@
+@import './src/styles/_variables';
+
+section .ratingContainer {
+	display: flex;
+	justify-content: space-between;
+	width: 128px;
+	height: 20px;
+
+	& svg {
+		color: $white;
+		font-size: 27px;
+
+		&:first-child {
+			margin-left: -4px;
+		}
+	}
+}

@@ -1,0 +1,55 @@
+@import './src/styles/_variables';
+@import './src/styles/_mixins';
+
+.footer {
+	background-color: $darkPurple;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 1160px;
+	height: 78px;
+	margin: auto;
+	padding: 0 20px;
+
+	@include for-mobile-only {
+		flex-direction: column;
+		height: auto;
+
+		& > img {
+			margin: 40px 0 18px;
+		}
+	}
+}
+
+.contactsList {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 626px;
+	height: 20px;
+
+	@include for-mobile-only {
+		flex-direction: column;
+		gap: 10px;
+		max-width: 560px;
+		height: auto;
+	}
+
+	& > div {
+		width: fit-content;
+		font-family: 'Sora', sans-serif;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 20px;
+		letter-spacing: 0px;
+		text-align: left;
+		color: $gray;
+
+		@include for-tablet-only {
+			padding: 8px;
+		}
+	}
+}
