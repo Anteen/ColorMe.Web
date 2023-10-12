@@ -1,7 +1,8 @@
 import React from 'react';
 
-import {Box, Button, List, ListItem, Typography} from '@mui/material';
+import {Box, Button, Link, List, ListItem, Typography} from '@mui/material';
 import Rating from 'components/Rating/Rating';
+import {appstoreHref} from 'const/hrefs';
 
 import appStore from '../../assets/images/App Store.svg';
 import iphone12 from '../../assets/images/iphone 12 res.png';
@@ -27,7 +28,9 @@ const MainPage = () => {
 						</Typography>
 					</Box>
 					<Box className={styles.appStoreContainer}>
-						<img src={appStore} alt="" />
+						<Link href={appstoreHref}>
+							<img src={appStore} alt="" />
+						</Link>
 						<Box className={styles.ratingContainer}>
 							<Rating />
 							<Typography variant="body1">184 reviews</Typography>
@@ -56,7 +59,9 @@ const MainPage = () => {
 					</List>
 					<Box className={styles.getStartedContainer}>
 						<Typography variant="h3">Ready to get started?</Typography>
-						<Button variant="contained">Get started</Button>
+						<Button variant="contained" href={appstoreHref}>
+							Get started
+						</Button>
 					</Box>
 				</section>
 			</Box>
