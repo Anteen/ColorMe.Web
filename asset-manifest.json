@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ColorMe.Web/static/css/main.53eb102b.css",
-    "main.js": "/ColorMe.Web/static/js/main.ae45a41b.js",
+    "main.css": "/ColorMe.Web/static/css/main.984dd60b.css",
+    "main.js": "/ColorMe.Web/static/js/main.c7dc54ee.js",
     "static/media/preview.mp4": "/ColorMe.Web/static/media/preview.7eb319e9928f9245eb81.mp4",
     "static/media/background-desktop.webp": "/ColorMe.Web/static/media/background-desktop.12356fa33ac5ca540eca.webp",
     "static/media/background-mobile.webp": "/ColorMe.Web/static/media/background-mobile.d8673a1b160935bbb80e.webp",
@@ -10,11 +10,11 @@
     "static/media/App Store.svg": "/ColorMe.Web/static/media/App Store.be023ee6cb88b6e6eeb990031f47ed9f.svg",
     "static/media/ColorMeLogo.svg": "/ColorMe.Web/static/media/ColorMeLogo.d709113ef5867f7b0df84c6630bbcc05.svg",
     "index.html": "/ColorMe.Web/index.html",
-    "main.53eb102b.css.map": "/ColorMe.Web/static/css/main.53eb102b.css.map",
-    "main.ae45a41b.js.map": "/ColorMe.Web/static/js/main.ae45a41b.js.map"
+    "main.984dd60b.css.map": "/ColorMe.Web/static/css/main.984dd60b.css.map",
+    "main.c7dc54ee.js.map": "/ColorMe.Web/static/js/main.c7dc54ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.53eb102b.css",
-    "static/js/main.ae45a41b.js"
+    "static/css/main.984dd60b.css",
+    "static/js/main.c7dc54ee.js"
   ]
 }
